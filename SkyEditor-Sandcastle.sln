@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{7CF6DF6D-3B04-46F8-A40B-537D21BCA0B4}") = "SkyEditor-Sandcastle", "SkyEditor-Sandcastle\SkyEditor-Sandcastle.shfbproj", "{112A4EC5-8C87-4840-864D-008A1956D8E1}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Referencer", "Referencer\Referencer.vbproj", "{E152059A-BCD0-49A9-97DA-E12EA768C71B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{1005F0D5-F96B-494C-ABF6-CCBA23309A9D}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{112A4EC5-8C87-4840-864D-008A1956D8E1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{112A4EC5-8C87-4840-864D-008A1956D8E1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{112A4EC5-8C87-4840-864D-008A1956D8E1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{112A4EC5-8C87-4840-864D-008A1956D8E1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E152059A-BCD0-49A9-97DA-E12EA768C71B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E152059A-BCD0-49A9-97DA-E12EA768C71B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E152059A-BCD0-49A9-97DA-E12EA768C71B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E152059A-BCD0-49A9-97DA-E12EA768C71B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
